@@ -17,11 +17,13 @@ To access this project on your local,you can clone it.
 Purity Jepkorir
 
 # Technologies Used
-Javascript
-HTML
-Bootstrap
-CSS
+* Javascript
+* HTML
+* Bootstrap
+* CSS
+
+# Contact Information
+Incase of any questions,comments reach out to me on my email: jepkorirpurity8@gmail.com
 
 # License
-This project is under the [MIT](LICENSE) license
-Copyright (c) {2021} 
+ [MIT] License
