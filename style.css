@@ -1,6 +1,7 @@
 body{
-    padding: 24px;
-    margin: 18px;
+    padding: 27px;
+    margin: 20px;
+    border: 2px solid black;
 }
 
 .hero-image {
