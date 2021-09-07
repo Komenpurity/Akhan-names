@@ -13,8 +13,14 @@ Install git and your text editor of your choice.
 # Setup
 To access this project on your local,you can clone it.
 
-# contributors
+# Contributors
 Purity Jepkorir
+
+# Technologies Used
+Javascript
+HTML
+Bootstrap
+CSS
 
 # License
 This project is under the [MIT](LICENSE) license
