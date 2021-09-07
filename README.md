@@ -1,5 +1,5 @@
 
-# AkanNames
+# The Akhan Names
 
 # Live site
  https://komenpurity.github.io/Akhan-names/
