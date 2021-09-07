@@ -23,6 +23,7 @@ body{
     color: white;
   }
 
-  .form{
-    align-items: center;
+
+  .form-inputs{
+    text-align: center;
   }
