@@ -22,6 +22,19 @@ Purity Jepkorir
 * Bootstrap
 * CSS
 
+# Behavior Driven Development
+ * It should display a form where the user can input both the birthday details and also their gender.
+      * Input: "Enter your Birthday details"
+      * Input: "Select your Gender"
+      * Output: "Display user's akhan name from the details provided"
+
+ * Display an error if input is left blank or gender is not chosen
+      * Input: "...."
+      * Output: "Error message"
+
+    
+
+
 # Contact Information
 Incase of any questions,comments reach out to me on my email: jepkorirpurity8@gmail.com
 
