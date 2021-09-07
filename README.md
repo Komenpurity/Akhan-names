@@ -39,4 +39,4 @@ Purity Jepkorir
 Incase of any questions,comments reach out to me on my email: jepkorirpurity8@gmail.com
 
 # License
- [MIT] License
+ [MIT] (https://opensource.org/licenses/MIT)
