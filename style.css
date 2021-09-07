@@ -28,3 +28,8 @@ body{
     text-align: center;
     background-color: ghostwhite;
   }
+
+  footer{
+    text-align: center;
+    border: 1px solid #cccccc;
+  }
